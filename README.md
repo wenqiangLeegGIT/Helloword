@@ -15,4 +15,4 @@ My first github project, test only
 ![](http://graph.baidu.com/resource/122e7301c9532eaa4e0cc01591538869.jpg)
 
 * #### 输出分类图
-![](./category.png)
+![](https://ae01.alicdn.com/kf/H9170e454e5ac405688155f0b7049bbb50.jpg)
