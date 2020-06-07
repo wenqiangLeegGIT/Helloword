@@ -12,7 +12,7 @@ My first github project, test only
 ![](https://ae01.alicdn.com/kf/Had26923167db4aba9ebd8565209079b4w.jpg)
 
 * #### 输出二值图
-![](./binary.png)
+![](http://graph.baidu.com/resource/122e7301c9532eaa4e0cc01591538869.jpg)
 
 * #### 输出分类图
 ![](./category.png)
