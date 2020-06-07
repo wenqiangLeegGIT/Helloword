@@ -9,7 +9,7 @@ My first github project, test only
 ### 示例
 * #### 输入矢量
 栅格化字段为`Id `字段
-![](./shp.png)
+![](https://upload-images.jianshu.io/upload_images/4557390-69981b653f5fd1fa.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240/format/webp)
 
 * #### 输出二值图
 ![](./binary.png)
